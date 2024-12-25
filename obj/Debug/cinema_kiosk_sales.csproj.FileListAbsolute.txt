@@ -1,0 +1,10 @@
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\bin\Debug\cinema_kiosk_sales.exe.config
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\bin\Debug\cinema_kiosk_sales.exe
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\bin\Debug\cinema_kiosk_sales.pdb
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\obj\Debug\cinema_kiosk_sales.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\obj\Debug\cinema_kiosk_sales.Form1.resources
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\obj\Debug\cinema_kiosk_sales.Properties.Resources.resources
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\obj\Debug\cinema_kiosk_sales.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\obj\Debug\cinema_kiosk_sales.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\obj\Debug\cinema_kiosk_sales.exe
+C:\Users\Fatih\source\repos\cinema_kiosk_sales\cinema_kiosk_sales\obj\Debug\cinema_kiosk_sales.pdb
